@@ -4,8 +4,8 @@
 extern "C" {
 #endif
 
-#ifndef EEPROM_Master_h
-#define EEPROM_Master_h
+#ifndef I2C_EEPROM_h
+#define I2C_EEPROM_h
 
 void EEPROMwrite_byte(uint8_t pDevAddr, uint8_t addr, uint8_t data);
 uint8_t EEPROMread_byte(uint8_t pDevAddr, uint8_t addr);
