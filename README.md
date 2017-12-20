@@ -1,7 +1,7 @@
 # i2c-eeprom
 
 ## Overview
-This project is done as my programming practice. It is written in C, to allow portability. It is used along with my own I2C library which is located in i2c-eeprom/I2C.
+This project is done as my programming practice. It is written in C, to allow portability. It must be used along with my own I2C library which is located in cyberjupiter/I2CinC.
 
 The library is tested on Arduino UNO which is based on Atmega328P microcontroller. Future plans include to make it work on other similar AVR microcontrollers. However, any other 8-bit AVR should also be able to use this library.
 
