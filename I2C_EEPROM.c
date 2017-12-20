@@ -1,7 +1,7 @@
 //I2C_EEPROM.c
 
 #include "I2CinC.h"
-#include "EEPROM_Master.h"
+#include "I2C_EEPROM.h"
 
 /************************************************************************
 Write a byte to the eeprom.
